@@ -1,0 +1,6 @@
+# SPDX-FileCopyrightText: Copyright (c) 2025 Bjoern Bilger
+#
+# SPDX-License-Identifier: MIT
+
+Adafruit-Blinka
+adafruit-circuitpython-typing>=1.12.2
